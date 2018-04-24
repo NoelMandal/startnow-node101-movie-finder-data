@@ -1,0 +1,1 @@
+This project takes an API and uses axios and express to make contact with a server and display requested data in JSON. Also this implements the use of saving requested data in Cache to speed up request times by not making another request to API server. Also logs data using morgan. 
